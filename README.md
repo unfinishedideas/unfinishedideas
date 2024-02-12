@@ -1,4 +1,4 @@
-# Welcome to Peter's Github page!
+# Welcome to Pete's Github page!
 
 ## About
 
